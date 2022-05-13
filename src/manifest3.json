@@ -15,7 +15,7 @@
     {
       "@id": "https://iiif.wellcomecollection.org/presentation/v2/b18035723",
       "@type": "Manifest",
-      "label" : "What up"
+      "label" : "What up",
     }
   ]
 }
