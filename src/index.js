@@ -51,7 +51,7 @@ Mirador.viewer({
 
   windows: [
     {
-      "loadedManifest": "https://raw.githubusercontent.com/Woodward-Library/mirador_search_test/main/src/manifest.json",
+      "loadedManifest": "https://raw.githubusercontent.com/Woodward-Library/Mirador_Multi_Manifests/main/src/manifest2.json",
       "canvasIndex": 0,
       sideBarOpen: false,
       view:'single',
