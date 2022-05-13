@@ -1,0 +1,28 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://example.org/iiif/collection/top",
+  "@type": "Collection",
+  "label": "UBC Top Level Collection",
+  "description": "This is my fantastic collection description",
+  "attribution": "Provided by AttributionHERE",
+
+  "items": [
+    {
+      "id": "https://purl.stanford.edu/fg165hz3589/iiif/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Example Manifest 1" ] },
+      "thumbnail": [
+        {
+          "id": "https://example.org/manifest1/thumbnail.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "@id": "https://iiif.wellcomecollection.org/presentation/v2/b18035723",
+      "@type": "Manifest",
+      "label" : "What up"
+    }
+  ]
+}
