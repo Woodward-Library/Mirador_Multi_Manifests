@@ -11,13 +11,6 @@
       "id": "https://purl.stanford.edu/fg165hz3589/iiif/manifest",
       "type": "Manifest",
       "label": { "en": [ "Example Manifest 1" ] },
-      "thumbnail": [
-        {
-          "id": "https://example.org/manifest1/thumbnail.jpg",
-          "type": "Image",
-          "format": "image/jpeg"
-        }
-      ]
     },
     {
       "@id": "https://iiif.wellcomecollection.org/presentation/v2/b18035723",
