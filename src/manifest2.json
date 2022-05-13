@@ -6,16 +6,6 @@
   "description": "Description of Collection",
   "attribution": "Provided by Example Organization",
 
-  "collections": [
-    { "@id": "https://purl.stanford.edu/fg165hz3589/iiif/manifest",
-      "@type": "sc:Collection",
-      "label": "Sub Collection Stanford"
-     },
-     { "@id": "https://iiif.wellcomecollection.org/presentation/v2/b18035723",
-       "@type": "sc:Collection",
-       "label": "Sub Collection IIF example"
-      }
-  ],
   "manifests": [
     { "@id": "https://iiif.library.ubc.ca/presentation/cdm.langmann.1-0053437/manifest",
       "@type": "sc:Manifest",
