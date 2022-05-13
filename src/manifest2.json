@@ -7,13 +7,13 @@
   "attribution": "Provided by Example Organization",
 
   "collections": [
-    { "@id": "http://example.org/iiif/collection/part1",
+    { "@id": "https://purl.stanford.edu/fg165hz3589/iiif/manifest",
       "@type": "sc:Collection",
-      "label": "Sub Collection 1"
+      "label": "Sub Collection Stanford"
      },
-     { "@id": "http://example.org/iiif/collection/part2",
+     { "@id": "https://iiif.wellcomecollection.org/presentation/v2/b18035723",
        "@type": "sc:Collection",
-       "label": "Sub Collection 2"
+       "label": "Sub Collection IIF example"
       }
   ],
   "manifests": [
