@@ -1,23 +1,26 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "http://example.org/iiif/collection/top",
-  "@type": "Collection",
-  "label": "UBC Top Level Collection",
-  "description": "This is my fantastic collection description",
-  "attribution": "Provided by AttributionHERE",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/iiif/collection/top",
+  "type": "Collection",
+  "label": { "en": [ "Collection for Example Organization" ] },
+  "summary": { "en": [ "Short summary of the Collection" ] },
+  "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "Provided by Example Organization" ] }
+  },
 
   "items": [
     {
-      "id": "https://purl.stanford.edu/fg165hz3589/iiif/manifest",
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.macmillan.1-0349199/manifest",
       "type": "Manifest",
       "label": { "en": [ "Example Manifest 1" ] },
       "thumbnail": [
-       {
-         "id": "https://example.org/manifest1/thumbnail.jpg",
-         "type": "Image",
-         "format": "image/jpeg"
-       }
+        {
+          "id": "https://example.org/manifest1/thumbnail.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ]
     }
-
   ]
 }
