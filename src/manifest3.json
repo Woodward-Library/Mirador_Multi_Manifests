@@ -2,18 +2,30 @@
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://example.org/iiif/collection/top",
   "type": "Collection",
-  "label": { "en": [ "Collection for Example Organization" ] },
-  "summary": { "en": [ "Short summary of the Collection" ] },
+  "label": { "en": [ "Collection of Manifests Example" ] },
+  "summary": { "en": [ "This is a summary of this collection - neato" ] },
   "requiredStatement": {
     "label": { "en": [ "Attribution" ] },
-    "value": { "en": [ "Provided by Example Organization" ] }
+    "value": { "en": [ "Provided by ...more info here" ] }
   },
 
   "items": [
     {
       "id": "https://iiif.library.ubc.ca/presentation/cdm.macmillan.1-0349199/manifest",
       "type": "Manifest",
-      "label": { "en": [ "Example Manifest 1" ] },
+      "label": { "en": [ "Forest photos" ] },
+      "thumbnail": [
+        {
+          "id": "https://example.org/manifest1/thumbnail.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.wwposters.1-0038296/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "WW Posters" ] },
       "thumbnail": [
         {
           "id": "https://example.org/manifest1/thumbnail.jpg",
