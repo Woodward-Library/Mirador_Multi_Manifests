@@ -5,15 +5,42 @@
   "label": "Top Level Collection for Example Organization",
   "description": "Description of Collection",
   "attribution": "Provided by Example Organization",
-
-  "manifests": [
-    { "@id": "https://iiif.library.ubc.ca/presentation/cdm.langmann.1-0053437/manifest",
-      "@type": "sc:Manifest",
-      "label" : "Book 1"
-    },
-    { "@id": "https://iiif.wellcomecollection.org/presentation/v2/b18035723",
-      "@type": "sc:Manifest",
-      "label" : "Book 2"
-    }
-  ]
+  "sequences": [
+  		{
+  			"@id": "http://3a85151c-6ff0-4799-9521-ec55a45749f1",
+  			"@type": "sc:Sequence",
+  			"label": [
+  				{
+  					"@value": "Normal Sequence",
+  					"@language": "en"
+  				}
+  			],
+        "items": [
+          {
+            "id": "https://iiif.library.ubc.ca/presentation/cdm.macmillan.1-0349199/manifest",
+            "type": "Manifest",
+            "label": { "en": [ "Forest photos" ] },
+            "thumbnail": [
+              {
+                "id": "https://example.org/manifest1/thumbnail.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              }
+            ]
+          },
+          {
+            "id": "https://iiif.library.ubc.ca/presentation/cdm.wwposters.1-0038296/manifest",
+            "type": "Manifest",
+            "label": { "en": [ "WW Posters" ] },
+            "thumbnail": [
+              {
+                "id": "https://example.org/manifest1/thumbnail.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              }
+            ]
+          }
+        ]
+      }
+   ]
 }
