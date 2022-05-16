@@ -1,7 +1,7 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://example.org/iiif/collection/top",
-  "type": "Collection",
+  "type": "sc:Manifest",
   "label": { "en": [ "Collection of Manifests Example" ] },
   "summary": { "en": [ "This is a summary of this collection - neato" ] },
   "requiredStatement": {
