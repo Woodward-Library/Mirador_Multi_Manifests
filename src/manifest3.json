@@ -3,7 +3,7 @@
   "id": "https://example.org/iiif/collection/top",
   "type": "Collection",
   "label": { "en": [ "Collection of Manifests Example" ] },
-  "summary": { "en": [ "This is a summary of this collection - neato" ] },
+  "summary": "This is a summary of this collection - neato",
   "description": "Collection Description here - some things",
   "requiredStatement": {
     "label": { "en": [ "Attribution" ] },
