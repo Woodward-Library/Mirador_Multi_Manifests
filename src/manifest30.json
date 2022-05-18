@@ -25,7 +25,7 @@
     },
     {
       "id": "https://iiif.library.ubc.ca/presentation/cdm.wwposters.1-0038296/manifest",
-      "type": "Manifest",
+      "type": "sc:Manifest",
       "label": { "en": [ "WW Posters" ] },
       "thumbnail": [
         {
