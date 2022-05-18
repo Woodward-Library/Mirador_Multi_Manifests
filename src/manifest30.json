@@ -17,7 +17,7 @@
       "label": { "en": [ "Forest photos" ] },
       "thumbnail": [
         {
-          "id": "https://example.org/manifest1/thumbnail.jpg",
+          "id": "https://iiif.library.ubc.ca/image/cdm.macmillan.1-0349199.0000/full/80,100/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
@@ -29,7 +29,7 @@
       "label": { "en": [ "WW Posters" ] },
       "thumbnail": [
         {
-          "id": "https://example.org/manifest1/thumbnail.jpg",
+          "id": "https://iiif.library.ubc.ca/image/cdm.wwposters.1-0038296.0000/full/80,100/0/default.jpg",
           "type": "Image",
           "format": "image/jpeg"
         }
