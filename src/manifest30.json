@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/iiif/collection/top",
+  "type": "Manifest",
+  "label": { "en": [ "Collection of Manifests Example" ] },
+  "summary": "This is a summary of this collection - neato",
+  "description": "Collection Description here - some things",
+  "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "Provided by ...more info here" ] }
+  },
+
+  "items": [
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.macmillan.1-0349199/manifest",
+      "type": "Canvas",
+      "label": { "en": [ "Forest photos" ] },
+      "thumbnail": [
+        {
+          "id": "https://example.org/manifest1/thumbnail.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.wwposters.1-0038296/manifest",
+      "type": "Canvas",
+      "label": { "en": [ "WW Posters" ] },
+      "thumbnail": [
+        {
+          "id": "https://example.org/manifest1/thumbnail.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ]
+    }
+  ]
+}
