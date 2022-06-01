@@ -5,25 +5,52 @@
   "label": {
     "en": [ "Charles Darwin Letters" ]
    },
-   "label": {
-     "en": [ "<a href='https://open.library.ubc.ca/collections/darwin'>Charles R. Darwin Letters</a>" ]
-    },
+
   "summary": ["Two collections of letters, written to and by Charles Darwin. UBC Woodward Library acquired two collections containing letters to and from Charles Darwin, the well-known evolutionary biologist and originator of the concept of natural selection. The main group of letters is the Darwin-Burdon-Sanderson Letters – 1873-1881. This collection was part of a purchase of books and manuscripts from Dr. Hugh Sinclair, lecturer in physiology and biochemistry, Magdalen College, Oxford"],
   "description": "Collection Description here - some things",
-  "requiredStatement": [
+  "requiredStatement":
     {
     "label": { "en": [ "See more in Open Collections" ] },
     "value": { "en": [ "<a href='https://open.library.ubc.ca/collections/darwin'>Charles R. Darwin Letters</a>" ] }
-    }
-   ],
+    },
 
-  "metadata": [
+  "metadata":
     {
       "label": { "en": [ "See more in Open Collections" ] },
       "value": { "en": [ "<a href='https://open.library.ubc.ca/collections/darwin'>Charles R. Darwin Letters</a>" ] }
-    }
-  ],
-
+    },
+    "provider": [
+        {
+          "id": "https://example.org/about",
+          "type": "Agent",
+          "label": { "en": [ "Example Organization" ] },
+          "homepage": [
+            {
+              "id": "https://example.org/",
+              "type": "Text",
+              "label": { "en": [ "Example Organization Homepage" ] },
+              "format": "text/html"
+            }
+          ],
+          "logo": [
+            {
+              "id": "https://example.org/images/logo.png",
+              "type": "Image",
+              "format": "image/png",
+              "height": 100,
+              "width": 120
+            }
+          ],
+          "seeAlso": [
+            {
+              "id": "https://data.example.org/about/us.jsonld",
+              "type": "Dataset",
+              "format": "application/ld+json",
+              "profile": "https://schema.org/"
+            }
+          ]
+        }
+      ],
 
   "items": [
     {
