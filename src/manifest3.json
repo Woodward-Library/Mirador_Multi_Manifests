@@ -2,8 +2,13 @@
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://example.org/iiif/collection/top",
   "type": "Collection",
-  "label": { "en": [ "Collection of Manifests Example" ] },
-  "summary": "This is a summary of this collection - neato",
+  "label": { "en": [ "Charles Darwin Letters" ] },
+  "summary": "Two collections of letters, written to and by Charles Darwin.
+
+UBC Woodward Library acquired two collections containing letters to and from Charles Darwin, the well-known evolutionary biologist and originator of the concept of natural selection.
+
+
+The main group of letters is the Darwin-Burdon-Sanderson Letters – 1873-1881. This collection was part of a purchase of books and manuscripts from Dr. Hugh Sinclair, lecturer in physiology and biochemistry, Magdalen College, Oxford in 1966. This group of about 40 letters consists of correspondence between Charles Robert Darwin (1809-1882) and John Scott Burdon Sanderson (1828 - 1905) during the years 1873-1881.",
   "description": "Collection Description here - some things",
   "requiredStatement": {
     "label": { "en": [ "Attribution" ] },
@@ -12,9 +17,9 @@
 
   "items": [
     {
-      "id": "https://iiif.library.ubc.ca/presentation/cdm.macmillan.1-0349199/manifest",
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000135/manifest",
       "type": "Manifest",
-      "label": { "en": [ "Forest photos" ] },
+      "label": { "en": [ "Letter, Charles R. Darwin to William Darwin Fox, June 8, 1856" ] },
       "thumbnail": [
         {
           "id": "https://example.org/manifest1/thumbnail.jpg",
@@ -24,9 +29,9 @@
       ]
     },
     {
-      "id": "https://iiif.library.ubc.ca/presentation/cdm.wwposters.1-0038296/manifest",
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000135/manifest",
       "type": "Manifest",
-      "label": { "en": [ "WW Posters" ] },
+      "label": { "en": [ "Letter, Charles R. Darwin to William Darwin Fox, August 28, 18--" ] },
       "thumbnail": [
         {
           "id": "https://example.org/manifest1/thumbnail.jpg",
