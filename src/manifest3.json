@@ -22,6 +22,12 @@
       "height": 200
     }
   ],
+  "placeholderCanvas": {
+   "id": "https://open.library.ubc.ca/img/thumbnails/cdm/darwin/324/1.0000140",
+   "type": "Canvas",
+   "height": 1400,
+   "width": 1200
+ },
   "metadata":
     {
       "label": { "en": [ "See more in Open Collections" ] },
