@@ -7,20 +7,12 @@
   "description": "Collection Description here - some things",
   "requiredStatement": [
     {
-    "label": { "en": [ "Attribution" ] },
-    "value": { "en": [ "Provided by ...more info here" ] }
-    },
-    {
     "label": { "en": [ "See more in Open Collections" ] },
     "value": { "en": [ "<a href='https://open.library.ubc.ca/collections/darwin'>Charles R. Darwin Letters</a>" ] }
     }
    ],
 
   "metadata": [
-    {
-      "label": { "en": [ "Authors" ] },
-      "value": { "en": [ "Charles R. Darwin" ] }
-    },
     {
       "label": { "en": [ "See more in Open Collections" ] },
       "value": { "en": [ "<a href='https://open.library.ubc.ca/collections/darwin'>Charles R. Darwin Letters</a>" ] }
