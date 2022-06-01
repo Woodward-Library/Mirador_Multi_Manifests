@@ -2,7 +2,12 @@
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://example.org/iiif/collection/top",
   "type": "Collection",
-  "label": { "en": [ "Charles Darwin Letters" ] },
+  "label": {
+    "en": [ "Charles Darwin Letters" ]
+   },
+   "label": {
+     "en": [ "<a href='https://open.library.ubc.ca/collections/darwin'>Charles R. Darwin Letters</a>" ]
+    },
   "summary": ["Two collections of letters, written to and by Charles Darwin. UBC Woodward Library acquired two collections containing letters to and from Charles Darwin, the well-known evolutionary biologist and originator of the concept of natural selection. The main group of letters is the Darwin-Burdon-Sanderson Letters – 1873-1881. This collection was part of a purchase of books and manuscripts from Dr. Hugh Sinclair, lecturer in physiology and biochemistry, Magdalen College, Oxford"],
   "description": "Collection Description here - some things",
   "requiredStatement": [
