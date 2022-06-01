@@ -13,7 +13,15 @@
     "label": { "en": [ "See more in Open Collections" ] },
     "value": { "en": [ "<a href='https://open.library.ubc.ca/collections/darwin'>Charles R. Darwin Letters</a>" ] }
     },
-
+    "thumbnail": [
+    {
+      "id": "https://open.library.ubc.ca/img/thumbnails/cdm/darwin/324/1.0000140",
+      "type": "Image",
+      "format": "image/jpeg",
+      "width": 300,
+      "height": 200
+    }
+  ],
   "metadata":
     {
       "label": { "en": [ "See more in Open Collections" ] },
