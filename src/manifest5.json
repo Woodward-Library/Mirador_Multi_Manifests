@@ -1,7 +1,7 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@type": "sc:Collection",
-  "@id": "https://figgy.princeton.edu/concern/scanned_resources/4802a8cb-70a0-4021-81e4-1d6a10b83249/manifest",
+  "@id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_Multi_Manifests/main/src/manifest5.json",
   "label": [
     "Charles Darwin Letters"
   ],
