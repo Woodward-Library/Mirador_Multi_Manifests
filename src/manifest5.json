@@ -1,0 +1,87 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Collection",
+  "@id": "https://figgy.princeton.edu/concern/scanned_resources/4802a8cb-70a0-4021-81e4-1d6a10b83249/manifest",
+  "label": [
+    "Charles Darwin Letters"
+  ],
+  "description": [
+    "NUM copy (former Ex copy 2) transferred to the Numismatics Collection in August 2012."
+  ],
+  "viewingHint": "multi-part",
+  "metadata": [
+    {
+      "label": "Author",
+      "value": [
+        "Phillips, Henry, 1838-1895"
+      ]
+    },
+
+    {
+      "label": "Title",
+      "value": [
+        {
+          "@value": "Historical sketches of the paper currency of the American colonies, prior to the adoption of the Federal constitution ... By Henry Phillips, jr. ...",
+          "@language": "eng"
+        }
+      ]
+    },
+
+    {
+      "label": "Date",
+      "value": [
+        "1865-1866"
+      ]
+    },
+  ],
+  "manifests": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000154/manifest",
+      "label": [
+        "Vol_1"
+      ],
+      "thumbnail": {
+        "@id": "https://open.library.ubc.ca/img/thumbnails/cdm/darwin/324/1.0000140",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://iiif-cloud.princeton.edu/iiif/2/6b%2F72%2F06%2F6b72067d441a4250962b65850ab2297f%2Fintermediate_file",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      }
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000135/manifest",
+      "label": [
+        "vol_2"
+      ],
+
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "https://figgy.princeton.edu/catalog/4802a8cb-70a0-4021-81e4-1d6a10b83249.jsonld",
+      "format": "application/ld+json"
+    },
+    {
+      "@id": "https://bibdata.princeton.edu/bibliographic/996645513506421",
+      "format": "text/xml"
+    }
+  ],
+  "license": "http://rightsstatements.org/vocab/NKC/1.0/",
+  "thumbnail": {
+    "@id": "https://iiif-cloud.princeton.edu/iiif/2/6b%2F72%2F06%2F6b72067d441a4250962b65850ab2297f%2Fintermediate_file/full/!200,150/0/default.jpg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://iiif-cloud.princeton.edu/iiif/2/6b%2F72%2F06%2F6b72067d441a4250962b65850ab2297f%2Fintermediate_file",
+      "profile": "http://iiif.io/api/image/2/level2.json"
+    }
+  },
+  "rendering": {
+    "@id": "http://arks.princeton.edu/ark:/88435/t722hd818",
+    "format": "text/html"
+  }
+}
