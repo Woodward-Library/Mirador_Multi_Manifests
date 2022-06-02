@@ -1,39 +1,171 @@
 {
-  "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://example.org/iiif/collection/top",
-  "type": "Manifest",
-  "label": { "en": [ "Collection of Manifests Example" ] },
-  "summary": "This is a summary of this collection - neato",
-  "description": "Collection Description here - some things",
-  "requiredStatement": {
-    "label": { "en": [ "Attribution" ] },
-    "value": { "en": [ "Provided by ...more info here" ] }
-  },
-
-  "items": [
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Collection",
+  "@id": "https://figgy.princeton.edu/concern/scanned_resources/4802a8cb-70a0-4021-81e4-1d6a10b83249/manifest",
+  "label": [
+    "Historical sketches of the paper currency of the American colonies, prior to the adoption of the Federal constitution ... By Henry Phillips, jr. ..."
+  ],
+  "description": [
+    "Edition of 250 copies, and 3 on drawing paper. 50 copies on large paper.",
+    "Vol. 2 has title: Continental paper money. Historical sketches of American paper currency. 2d ser.",
+    "Ex copy 1 is no. 53 and both volumes are bound in one.",
+    "NUM copy (former Ex copy 2) is no. 63 and both volumes are bound separately.",
+    "NUM copy (former Ex copy 2) is 2 v. 23 cm.",
+    "NUM copy (former Ex copy 2) has mounted samples of paper currency inserted in both volumes.",
+    "NUM copy (former Ex copy 2) with v.1 are bound an article entitled Continental money, extracted from Harper's new monthly magazine, March 1863; a Scott & co. catalog, United States continental currency; and History of the issues of paper-money in the American colonies...[by Adolphus M. Hart] 1851.",
+    "NUM copy (former Ex copy 2) transferred to the Numismatics Collection in August 2012."
+  ],
+  "viewingHint": "multi-part",
+  "metadata": [
     {
-      "id": "https://iiif.library.ubc.ca/presentation/cdm.macmillan.1-0349199/manifest",
-      "type": "Canvas",
-      "label": { "en": [ "Forest photos" ] },
-      "thumbnail": [
+      "label": "Author",
+      "value": [
+        "Phillips, Henry, 1838-1895"
+      ]
+    },
+    {
+      "label": "Contents",
+      "value": [
+        "1st ser. Pennsylvania. New Jersey. Rhode Island. By Elisha R. Potter. Virginia. Vermont.--2d ser. Continental paper money."
+      ]
+    },
+    {
+      "label": "Extent",
+      "value": [
+        "2 v. 22 x 18 cm."
+      ]
+    },
+    {
+      "label": "Identifier",
+      "value": [
+        "ark:/88435/t722hd818"
+      ]
+    },
+    {
+      "label": "Title",
+      "value": [
         {
-          "id": "https://iiif.library.ubc.ca/image/cdm.macmillan.1-0349199.0000/full/80,100/0/default.jpg",
-          "type": "Image",
-          "format": "image/jpeg"
+          "@value": "Historical sketches of the paper currency of the American colonies, prior to the adoption of the Federal constitution ... By Henry Phillips, jr. ...",
+          "@language": "eng"
         }
       ]
     },
     {
-      "id": "https://iiif.library.ubc.ca/presentation/cdm.wwposters.1-0038296/manifest",
-      "type": "sc:Manifest",
-      "label": { "en": [ "WW Posters" ] },
-      "thumbnail": [
-        {
-          "id": "https://iiif.library.ubc.ca/image/cdm.wwposters.1-0038296.0000/full/80,100/0/default.jpg",
-          "type": "Image",
-          "format": "image/jpeg"
-        }
+      "label": "Contributor",
+      "value": [
+        "Potter, Elisha R. (Elisha Reynolds) 1811-1822"
+      ]
+    },
+    {
+      "label": "Creator",
+      "value": [
+        "Phillips, Henry, 1838-1895"
+      ]
+    },
+    {
+      "label": "Date",
+      "value": [
+        "1865-1866"
+      ]
+    },
+    {
+      "label": "Language",
+      "value": [
+        "English"
+      ]
+    },
+    {
+      "label": "Publisher",
+      "value": [
+        "Roxbury, Mass., W. E. Woodward, 1865-66."
+      ]
+    },
+    {
+      "label": "Subject",
+      "value": [
+        "Money—United States—History—Colonial period, ca. 1600-1775"
+      ]
+    },
+    {
+      "label": "Call Number",
+      "value": [
+        "MICROFILM 4251",
+        "HG506 .P54"
+      ]
+    },
+    {
+      "label": "Location",
+      "value": [
+        "RCPPF MICROFILM 4251",
+        "RCPPF HG506 .P54",
+        "EX MICROFILM 4251",
+        "EX HG506 .P54",
+        "NUM MICROFILM 4251",
+        "NUM HG506 .P54"
+      ]
+    },
+    {
+      "label": "Member Of Collections",
+      "value": [
+        "Treasures of Rare Book Division"
       ]
     }
-  ]
+  ],
+  "manifests": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://figgy.princeton.edu/concern/scanned_resources/99f44053-a0ab-40fd-a6a9-384e5de7897e/manifest",
+      "label": [
+        "Vol_1"
+      ],
+      "thumbnail": {
+        "@id": "https://iiif-cloud.princeton.edu/iiif/2/6b%2F72%2F06%2F6b72067d441a4250962b65850ab2297f%2Fintermediate_file/full/!200,150/0/default.jpg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://iiif-cloud.princeton.edu/iiif/2/6b%2F72%2F06%2F6b72067d441a4250962b65850ab2297f%2Fintermediate_file",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      }
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@type": "sc:Manifest",
+      "@id": "https://figgy.princeton.edu/concern/scanned_resources/7ae1175c-5341-4e35-b767-f5140f6ade62/manifest",
+      "label": [
+        "vol_2"
+      ],
+      "thumbnail": {
+        "@id": "https://iiif-cloud.princeton.edu/iiif/2/a6%2F4b%2F4d%2Fa64b4de1c5114142a7af2ef38aa5f1e9%2Fintermediate_file/full/!200,150/0/default.jpg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://iiif-cloud.princeton.edu/iiif/2/a6%2F4b%2F4d%2Fa64b4de1c5114142a7af2ef38aa5f1e9%2Fintermediate_file",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      }
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "https://figgy.princeton.edu/catalog/4802a8cb-70a0-4021-81e4-1d6a10b83249.jsonld",
+      "format": "application/ld+json"
+    },
+    {
+      "@id": "https://bibdata.princeton.edu/bibliographic/996645513506421",
+      "format": "text/xml"
+    }
+  ],
+  "license": "http://rightsstatements.org/vocab/NKC/1.0/",
+  "thumbnail": {
+    "@id": "https://iiif-cloud.princeton.edu/iiif/2/6b%2F72%2F06%2F6b72067d441a4250962b65850ab2297f%2Fintermediate_file/full/!200,150/0/default.jpg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://iiif-cloud.princeton.edu/iiif/2/6b%2F72%2F06%2F6b72067d441a4250962b65850ab2297f%2Fintermediate_file",
+      "profile": "http://iiif.io/api/image/2/level2.json"
+    }
+  },
+  "rendering": {
+    "@id": "http://arks.princeton.edu/ark:/88435/t722hd818",
+    "format": "text/html"
+  }
 }
