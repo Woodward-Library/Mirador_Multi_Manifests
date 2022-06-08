@@ -1,0 +1,19 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://iiif.io/api/cookbook/recipe/0269-embedded-or-referenced-annotations/annotationpage.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "https://iiif.io/api/cookbook/recipe/0269-embedded-or-referenced-annotations/canvas-1/annopage-2/anno-1",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "language": "en",
+        "format": "text/plain",
+        "value": " This is a test annotation"
+     },
+     "target": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000154/canvas/p0000"
+    }
+  ]
+}
