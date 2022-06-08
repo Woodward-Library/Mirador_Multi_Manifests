@@ -36,7 +36,13 @@
           "type": "Image",
           "format": "image/jpeg"
         }
-      ]
+      ],
+      "annotations": [
+  		        {
+  		          "id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_Multi_Manifests/main/src/annotations/annotationTest.json",
+  		          "type": "AnnotationPage"
+  		        }
+  		      ]
     },
     {
       "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000135/manifest",
