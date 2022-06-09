@@ -19,7 +19,7 @@
     {
       "id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_Multi_Manifests/main/src/manifest_Darwin_Burdon-Sanderson.json",
       "type": "Collection",
-      "label": { "en": [ "Darwin-Burdon-Sanderson Letters – 1873-1881" ] },
+      "label": { "en": [ "View:  Darwin-Burdon-Sanderson Letters – 1873-1881" ] },
       "thumbnail": [
         {
           "id": "https://open.library.ubc.ca/img/thumbnails/cdm/darwin/324/1.0000140",
@@ -37,7 +37,7 @@
     {
       "id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_Multi_Manifests/main/src/manifest_Darwin_Fox-Pearce.json",
       "type": "Collection",
-      "label": { "en": [ "Fox/Pearce (Darwin) Collection – 1821-1884" ] }
+      "label": { "en": [ "View:  Fox/Pearce (Darwin) Collection – 1821-1884" ] }
     }
   ]
 }
