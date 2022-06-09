@@ -6,19 +6,9 @@
     "en": [ "Charles Darwin Letters" ]
    },
 
-  "description": ["Collection Description here - some things"],
-  "requiredStatement":
-    {
-    "label": { "en": [ "See more in Open Collections" ] },
-    "value": { "en": [ "<a href='https://open.library.ubc.ca/collections/darwin'>Charles R. Darwin Letters</a>" ] }
-    },
-
+  "description": ["Two collections of letters, written to and by Charles Darwin.UBC Woodward Library acquired two collections containing letters to and from Charles Darwin, the well-known evolutionary biologist and originator of the concept of natural selection."],
 
   "metadata":[
-    {
-      "label": "Title",
-      "value": ["Charles Darwin Letters title"]
-    },
     {
       "label": "See more in Open Collections",
       "value": ["<a href='https://open.library.ubc.ca/collections/darwin'>Charles R. Darwin Letters</a>"]
