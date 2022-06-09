@@ -1,12 +1,12 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_Multi_Manifests/main/src/manifest3.json",
+  "id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_Multi_Manifests/main/src/manifest_Darwin_Burdon-Sanderson.json",
   "type": "Collection",
   "label": {
-    "en": [ "Charles Darwin Letters" ]
+    "en": [ "Charles Darwin Letters: Darwin-Burdon-Sanderson" ]
    },
 
-  "description": ["Two collections of letters, written to and by Charles Darwin. UBC Woodward Library acquired two collections containing letters to and from Charles Darwin, the well-known evolutionary biologist and originator of the concept of natural selection."],
+  "description": ["This collection was part of a purchase of books and manuscripts from Dr. Hugh Sinclair, lecturer in physiology and biochemistry, Magdalen College, Oxford in 1966. This group of about 40 letters consists of correspondence between Charles Robert Darwin (1809-1882) and John Scott Burdon Sanderson (1828 - 1905) during the years 1873-1881."],
 
   "metadata":[
     {
@@ -16,29 +16,7 @@
   ],
 
   "items": [
-    {
-      "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000154/manifest",
-      "type": "Manifest",
-      "label": { "en": [ "Letter, Charles R. Darwin to William Darwin Fox, June 8, 1856" ] },
-      "thumbnail": [
-        {
-          "id": "https://open.library.ubc.ca/img/thumbnails/cdm/darwin/324/1.0000140",
-          "type": "Image",
-          "format": "image/jpeg"
-        }
-      ],
-      "annotations": [
-  		        {
-  		          "id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_Multi_Manifests/main/src/annotations/annotationTest.json",
-  		          "type": "AnnotationPage"
-  		        }
-  		      ]
-    },
-    {
-      "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000135/manifest",
-      "type": "Manifest",
-      "label": { "en": [ "Letter, Charles R. Darwin to William Darwin Fox, August 28, 18--" ] }
-    },
+
 
     {
       "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000100/manifest",
@@ -66,11 +44,6 @@
       "label": { "en": [ "Letter, Charles R. Darwin to John Burdon-Sanderson, June 12, 1874" ] }
     },
     {
-      "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000148/manifest",
-      "type": "Manifest",
-      "label": { "en": [ "Letter, Charles R. Darwin to William Darwin Fox, July 6, 1858" ] }
-    },
-    {
       "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000138/manifest",
       "type": "Manifest",
       "label": { "en": [ "Letter, John Burdon-Sanderson to Charles R. Darwin, May 23, 1875" ] }
@@ -84,11 +57,6 @@
       "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000088/manifest",
       "type": "Manifest",
       "label": { "en": [ "Letter, Charles R. Darwin to John Burdon-Sanderson, February 10, 1875" ] }
-    },
-    {
-      "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000151/manifest",
-      "type": "Manifest",
-      "label": { "en": [ "Letter, Charles R. Darwin to William Darwin Fox, May 26 1876" ] }
     },
     {
       "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000103/manifest",
@@ -121,11 +89,6 @@
       "label": { "en": [ "Letter, Charles R. Darwin to John Burdon-Sanderson, March 31, 1874" ] }
     },
     {
-      "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000143/manifest",
-      "type": "Manifest",
-      "label": { "en": [ "Letter, Charles R. Darwin to Charles W. Fox, March 10, 1880" ] }
-    },
-    {
       "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000085/manifest",
       "type": "Manifest",
       "label": { "en": [ "Letter, Charles R. Darwin to John Burdon-Sanderson, November 15, 1873" ] }
@@ -139,11 +102,6 @@
       "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000085/manifest",
       "type": "Manifest",
       "label": { "en": [ "Letter, Charles R. Darwin to John Burdon-Sanderson, November 15, 1873" ] }
-    },
-    {
-      "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000152/manifest",
-      "type": "Manifest",
-      "label": { "en": [ "Letter, Charles R. Darwin to William Darwin Fox, February 14, 1878" ] }
     },
     {
       "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000142/manifest",
@@ -176,11 +134,6 @@
       "label": { "en": [ "Letter, John Burdon-Sanderson to Charles R. Darwin, April 12, 1875" ] }
     },
     {
-      "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000149/manifest",
-      "type": "Manifest",
-      "label": { "en": [ "Letter, Charles R. Darwin to Charles W. Fox, March 29, 1880" ] }
-    },
-    {
       "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000090/manifest",
       "type": "Manifest",
       "label": { "en": [ "Letter, John Burdon-Sanderson to Charles R. Darwin, April 1875" ] }
@@ -194,11 +147,6 @@
       "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000079/manifest",
       "type": "Manifest",
       "label": { "en": [ "Letter, Charles R. Darwin to John Burdon-Sanderson, October 1, 1873" ] }
-    },
-    {
-      "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000131/manifest",
-      "type": "Manifest",
-      "label": { "en": [ "Letter, Charles R. Darwin to William D. Fox, February 7, 1867" ] }
     },
     {
       "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000081/manifest",

@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_Multi_Manifests/main/src/manifest3.json",
+  "id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_Multi_Manifests/main/src/manifestDarwinLettersCollection.json",
   "type": "Collection",
   "label": {
     "en": [ "Charles Darwin Letters" ]
