@@ -1,0 +1,67 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_Multi_Manifests/main/src/manifest_Darwin_Fox-Pearce.json",
+  "type": "Collection",
+  "label": {
+    "en": [ "Florence Nightingale Letters" ]
+   },
+
+  "description": ["This group of approximately 80 items was acquired in 1970 from Captain Christopher Pearce, a descendant of the Fox family."],
+
+  "metadata":[
+    {
+      "label": "See more in Open Collections",
+      "value": ["<a href='https://open.library.ubc.ca/collections/florence'>Florence Nightingale Letters Collection</a>"]
+    }
+  ],
+
+  "items": [
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018242/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Aimee Dawson to Elizabeth Bosanquet, December 13, 1907" ] },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000135/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Charles R. Darwin to William Darwin Fox, August 28, 18--" ] }
+    },
+
+
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000148/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Charles R. Darwin to William Darwin Fox, July 6, 1858" ] }
+    },
+
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000151/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Charles R. Darwin to William Darwin Fox, May 26 1876" ] }
+    },
+
+
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000143/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Charles R. Darwin to Charles W. Fox, March 10, 1880" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000152/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Charles R. Darwin to William Darwin Fox, February 14, 1878" ] }
+    },
+
+
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000149/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Charles R. Darwin to Charles W. Fox, March 29, 1880" ] }
+    },
+
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000131/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Charles R. Darwin to William D. Fox, February 7, 1867" ] }
+    }
+  ]
+}
