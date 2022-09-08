@@ -19,7 +19,8 @@
     {
       "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018242/manifest",
       "type": "Manifest",
-      "label": { "en": [ "Letter, Aimee Dawson to Elizabeth Bosanquet, December 13, 1907" ] },
+      "label": { "en": [ "Letter, Aimee Dawson to Elizabeth Bosanquet, December 13, 1907" ] }
+    },
     {
       "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000135/manifest",
       "type": "Manifest",
