@@ -6,7 +6,7 @@
     "en": [ "Florence Nightingale Letters" ]
    },
 
-  "description": ["This group of approximately 80 items was acquired in 1970 from Captain Christopher Pearce, a descendant of the Fox family."],
+  "description": ["A collection of letters written by and to Florence Nightingale."],
 
   "metadata":[
     {
@@ -17,52 +17,1000 @@
 
   "items": [
     {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018250/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Frances Catherine Mackenzie to Miss Smith, June 3, 1813" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018245/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Frances Catherine Mackenzie to Miss Smith, July 26, 1813" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018252/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Patty [Aunt], November 28, 1845" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018275/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Clarke, August 27, before 1847" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018271/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Frances Nightingale to (unknown), 1855?" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018159/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Panmure, Fox Maule, 2d Baron Panmure to Florence Nightingale, December 26, 1856" ] }
+    },
+
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018173/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, William Edward Nightingale to Florence Nightingale, March 19, 1857" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018083/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Julius Mohl, June 13, 1859" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018084/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Sir Edwin Chadwick, June 5, 1863" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018073/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Sir Edwin Chadwick, July 8, 1863" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018074/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Frances Nightingale, October 28, 1863" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018085/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Sir Edwin Chadwick, October ?, 1863" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018095/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Messrs. Longman, March 29, 1867" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018095/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Messrs. Longman, March 29, 1867" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018097/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, March 26, 1869" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018098/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Julius Mohl, November 21, 1869" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018075/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to William Edward Nightingale, 186-?" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018090/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, April 18, 1870" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018088/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, May 7, 1870" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018080/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, June 22, 1870" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018079/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, June 25, 1870" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018082/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, July 16, 1870" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018078/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, July 20, 1870" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018091/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, August 16, 1870" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018089/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, August 17, 1870" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018081/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to (unknown), August 18?, 1870" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018092/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, August 18, 1870" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018093/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Julius Mohl, August 31, 1870" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018096/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Julius Mohl, September 9, 1870" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018094/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, September 13, 1870" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018087/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Julius Mohl, November 17, 1870" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018076/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Julius Mohl, November 23, 1870" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018160/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Mary Carpenter to Florence Nightingale, March 5?, 1871" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018086/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, March 14, 1871" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018232/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Mary Carpenter to Florence Nightingale, Mar. 14, 1871?" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018105/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, April 11, 1871" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018101/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, April 27, 1871" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018100/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, May 4, 1871" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018099/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, May 11, 1871" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018103/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, May 28, 1871" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018104/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, May 31, 1871" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018231/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, William Mansfield to Florence Nightingale, June 8, 1871" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018243/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Mary Carpenter to Florence Nightingale, July 15, 1871" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018251/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Sir Bartle Frere to Florence Nightingale, August 4, 1871" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018241/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Napier, Francis, Baron Napier and Ettrick to Florence Nightingale, September 1, 1871" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018240/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Sir Bartle Frere to Florence Nightingale, October 19, 1871" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018163/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Dr. John Sutherland to Florence Nightingale, November 10, 1871" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018116/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, November 27, 1871" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018273/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Sir James Stansfeld to Sir Harry Verney, January 4, 1872" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018107/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, July 30, 1872" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018106/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, August 4, 1872" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018102/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, August 11, 1872" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018230/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, J.A. Froude to Florence Nightingale, March 23, 1873" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018120/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, June 12, 1873" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018121/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, June 19, 1873" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018108/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Julius Mohl, June 21, 1873" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018274/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, W. Clark to the Chairman and Justices of the Peace, July 18, 1873" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018123/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Julius Mohl and Mary Mohl, February 3, 1874" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018237/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, J. T. Delare to Lady Frances Verney, February 27, 1874?" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018151/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Edward Stanley, Earl of Derby to Florence Nightingale, March 12, 1874" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018150/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to William Edward Nightingale, 186-?" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018167/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Edward Stanley, Earl of Derby to Florence Nightingale, May 13, 1874" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018152/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Princess Victoria, Empress of Prussia to Florence Nightingale, August 7?, 1874" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018158/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Princess Victoria, Empress of Prussia to Florence Nightingale, August 14? 1874" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018119/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, June 18, 1875" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018114/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, September 5, 1875" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018112/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, December 6, 1875" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018110/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, January 20, 1877" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018166/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Sir Bartle Frere to Florence Nightingale, February 2, 1877" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018162/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Sir Bartle Frere to Florence Nightingale, February 7, 1877" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018161/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Sir Bartle Frere to Florence Nightingale, February 21, 1877" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018153/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Josephine E. Butler to Florence Nightingale, February 28, 1877" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018181/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Mary Carpenter to Florence Nightingale, March 10, 1877" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018185/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Sir Andrew Clark to Florence Nightingale, March 17? 1877" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018193/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Sir Andrew Clark to Florence Nightingale, March 18, 1877" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018190/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Josephine E. Butler to Florence Nightingale, June 5, 1877" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018184/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Josephine E. Butler to Florence Nightingale, July 1, 1877" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018115/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, July 6, 1877" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018199/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Sir Bartle Frere to Florence Nightingale, July 10, 1877" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018178/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Henry Fawcett to Florence Nightingale, July 25, 1877" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018188/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Sir Charles Trevelyan to Florence Nightingale, July 27, 1877" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018180/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Monier Williams? to Florence Nightingale, July 21, 1877?" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018179/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, C. H. Spurgeon to Florence Nightingale, July 29, 1877" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018197/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Richard Grenville, Duke of Buckingham to Florence Nightingale, July 31, 1877" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018187/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Sir George Campbell to Florence Nightingale, August 5, 1877" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018111/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, September 14, 1877" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018194/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Norman Chevers to Florence Nightingale, November 13, 1877" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018177/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Octavia Hill to Florence Nightingale, November 29, 1877" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018196/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Sir John Lawrence, Baron to Florence Nightingale, December 28, 1877" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018109/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to (unknown), 1877" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018174/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Addendum, Florence Nightingale to the nursing staff, January 1, 1878" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018182/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Sir James Paget to Florence Nightingale, January 10, 1878" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018176/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Sir James Paget to Florence Nightingale, January 15, 1878" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018175/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Russian Stopford A. Brooke to Florence Nightingale, January 20, 1878" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018195/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Harriette Lawrence, Lady to Florence Nightingale, January 28, 1878" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018198/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Sir John Lawrence, Baron to Florence Nightingale, February 1, 1878" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018189/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, George Hamilton, Baron to Florence Nightingale, February 22, 1878" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018183/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Sir Louis Mallet to Florence Nightingale, February 28, 1878" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018191/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Sir Louis Mallet to Florence Nightingale, March 15, 1878?" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018269/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Lees to Miss Majendie, March 20, 1878" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018186/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Monier Williams to Florence Nightingale, June 27, 1878" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018192/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Sir James Caird to Florence Nightingale, July 3, 1878" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018117/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, July 18, 1878" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018203/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, James Knowles to Florence Nightingale, July 26, 1878" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018222/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Sir James Caird to Florence Nightingale, August 7, 1878" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018202/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Gathorne Gathorne-Hardy, Viscount Cranbrook to Florence Nightingale, August 13, 1878" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018206/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Edward Stanley, Earl of Derby to Florence Nightingale, September 27, 1878" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018207/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Sir James Paget to Florence Nightingale, December 13, 1878" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018213/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Thomas Spring-Rice, Baron Monteagle to Florence Nightingale, August 10, 1878" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018215/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Napier, Francis, Baron Napier and Ettrick, August 7, 1878?" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018208/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Sir John Lawrence, Baron to Florence Nightingale, January 15, 1879" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018229/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Sir John Lawrence, Baron to Florence Nightingale, January 27, 1879" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018221/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Louisa, Grand Duchess of Baden to Florence Nightingale, February 23, 1879" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018220/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Louisa, Grand Duchess of Baden to Florence Nightingale, April 12, 1879" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018200/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Sir John Lawrence, Baron to Florence Nightingale, June 23, 1879" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018210/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Franz von Roggenbach, Freiherr to Florence Nightingale, July 7, 1879" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018205/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Franz von Roggenbach, Freiherr to Florence Nightingale, July 9, 1879" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018223/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Elizabeth de Bunsen to Florence Nightingale, August 3, 1879" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018211/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Elizabeth de Bunsen to Florence Nightingale, August 4, 1879?" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018077/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to (unknown), 187-?" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018258/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Portrait of Julius von Mohl" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018281/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Annie Elizabeth Hill" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018113/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, June 8, 1880" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018118/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Louisa, July 25, 1880" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018214/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Louisa Smith to Florence Nightingale, 1880?" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018122/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to C.B.N. Dunn, April 4, 1881" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018128/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Rosalind Nash, June 7, 1881" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018147/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, June 30, 1881" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018143/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Mary Mohl, November 2, 1881" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018209/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Anna Helmholtz To Florence Nightingale, June 16, 1883" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018133/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to (unknown), March 3, 1886" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018233/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, W. B. Richmond to Sir Harry Verney, September 9, 1886" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018131/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Rosalind Nash, December 30, 1886" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018217/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Samuel Atkins to Florence Nightingale, March 9, 1887" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018130/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Rosalind Nash, July 25, 1888" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018139/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to (unknown), October 7, 1888" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018125/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to T.G. Hewlett, December 20, 1888" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018124/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to T.G. Hewlett, December 25, 1888" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018137/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to T.G. Hewlett, December 26, 1888" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018135/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to (T.G. Hewlett?), January 24, 1889" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018140/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to T.G. Hewlett, January 25, 1889" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018141/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Rosalind Nash, March 21, 1889" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018126/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Sir Henry Yule, December 16, 1889" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018212/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Sir Henry Yule to Florence Nightingale, December 17, 1889" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018127/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to (woman student at Girton College, Cambridge), May 9, 1890" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018157/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to (unknown), pre-1891" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018263/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Florence Nightingale" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018246/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, (unknown) to Rosalind Nash, June 1, (after 1892)" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018224/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Rosalind Nash to Florence Nightingale, September 26, 1892" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018218/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Rosalind Nash to Florence Nightingale, October 1, 1892" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018225/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Rosalind Nash to Florence Nightingale, January 15, 1893" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018148/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to (unknown), May 13, 1893" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018138/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to (unknown), September 11, 1894" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018134/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Rosalind Nash, October 9, 1895" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018145/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Rosalind Nash, January 1, 1896" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018129/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Rosalind Nash, January 6, 1896" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018132/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Vaughan Nash, August 28, 1896" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018149/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Vaughan Nash, September 10, 1896" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018142/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Vaughan Nash, September 12, 1896" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018144/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Vaughan Nash, September 24, 1896" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018146/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Vaughan Nash, October 12, 1896" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018170/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Rosalind Nash, January 1, 1897" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018172/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Rosalind Nash, January 7, 1897" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018171/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Rosalind Nash, January 17, 1897" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018169/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Vaughan Nash, April 24, 1897" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018154/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Rosalind Nash, January 31, 1898" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018168/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Rosalind Nash or Vaughan Nash, May 25, 1898" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018216/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Vaughan Nash to Florence Nightingale, May 28, 1898" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018219/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Vaughan Nash to Florence Nightingale, June 18, 1898" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018156/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Rosalind Nash, December 20, 1898" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018165/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Rosalind Nash, August 22, 1899" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018276/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, F. S. P. Lely to Vaughan Nash, August 31, 1900" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018239/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Sir Douglas Dawson to Elizabeth Bosanquet, November 8, 1907" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018277/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Baron Francis Knollys to L.H. Shore Nightingale, December 3, 1907" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018235/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Elizabeth Bosanquet to Mr. Nightingale, December 4, 1907" ] }
+    },
+    {
       "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018242/manifest",
       "type": "Manifest",
       "label": { "en": [ "Letter, Aimee Dawson to Elizabeth Bosanquet, December 13, 1907" ] }
     },
     {
-      "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000135/manifest",
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018256/manifest",
       "type": "Manifest",
-      "label": { "en": [ "Letter, Charles R. Darwin to William Darwin Fox, August 28, 18--" ] }
-    },
-
-
-    {
-      "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000148/manifest",
-      "type": "Manifest",
-      "label": { "en": [ "Letter, Charles R. Darwin to William Darwin Fox, July 6, 1858" ] }
-    },
-
-    {
-      "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000151/manifest",
-      "type": "Manifest",
-      "label": { "en": [ "Letter, Charles R. Darwin to William Darwin Fox, May 26 1876" ] }
-    },
-
-
-    {
-      "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000143/manifest",
-      "type": "Manifest",
-      "label": { "en": [ "Letter, Charles R. Darwin to Charles W. Fox, March 10, 1880" ] }
+      "label": { "en": [ "Last Portrait of Florence Nightingale" ] }
     },
     {
-      "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000152/manifest",
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018280/manifest",
       "type": "Manifest",
-      "label": { "en": [ "Letter, Charles R. Darwin to William Darwin Fox, February 14, 1878" ] }
+      "label": { "en": [ "Last Portrait of Florence Nightingale" ] }
     },
-
-
     {
-      "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000149/manifest",
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018236/manifest",
       "type": "Manifest",
-      "label": { "en": [ "Letter, Charles R. Darwin to Charles W. Fox, March 29, 1880" ] }
+      "label": { "en": [ "Letter, Sidney Lee to (unknown), January 3, 1911" ] }
     },
-
     {
-      "id": "https://iiif.library.ubc.ca/presentation/cdm.darwin.1-0000131/manifest",
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018272/manifest",
       "type": "Manifest",
-      "label": { "en": [ "Letter, Charles R. Darwin to William D. Fox, February 7, 1867" ] }
+      "label": { "en": [ "Letter, Edward Tyas Cook to Rosalind Nash, December 15, 1912" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018238/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Edward Tyas Cook to Rosalind Nash, February 21, 1913" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018248/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Edward Tyas Cook to Rosalind Nash, May 21, 1913" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018265/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, S.G. Payne & Son to Rosalind Nash, June 9, 1913" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018249/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Gwen Compton-Bracebridge to Lady Stephen, October 16, (after 1913)" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018247/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Francis William Sargant to Rosalind Nash, October 26, 1913" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018244/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Edward Tyas Cook to (unknown), (between 1910 and 1913)" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018278/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Hardy Summers to Edward Tyas Cook, February 23, 1914" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018270/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Edward Tyas Cook to Mr. Shore Nightingale, July 9, 1914" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018234/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Rosalind Nash to Brigadier General Sir Douglas Dawson, November 4, 1927" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018268/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Florence Nightingale Drawing Postcard" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018261/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Florence Nightingale Postcard" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018255/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Florence Nightingale Bust" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018257/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Florence Nightingale Marble Bust" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018279/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Envelopes" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018254/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Notes" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018253/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Rosalind Nash to (unknown), (n.d.)" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018164/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to Rosalind Nash, (n.d.)" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018155/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Letter, Florence Nightingale to (unknown), (n.d.)" ] }
+    },
+    {
+      "id": "https://iiif.library.ubc.ca/presentation/cdm.florence.1-0018267/manifest",
+      "type": "Manifest",
+      "label": { "en": [ "Unidentified woman standing in yard" ] }
     }
   ]
 }
