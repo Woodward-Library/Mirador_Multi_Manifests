@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_Multi_Manifests/main/src/manifest_Darwin_Fox-Pearce.json",
+  "id": "https://raw.githubusercontent.com/Woodward-Library/Mirador_Multi_Manifests/refs/heads/main/src/manifest_Nightingale.json",
   "type": "Collection",
   "label": {
     "en": [ "Florence Nightingale Letters" ]
